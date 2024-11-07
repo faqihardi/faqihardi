@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faqihardi
+- 👋 Hi, I’m Faqih Ardiansyah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C, CPP, Python, HTML, CSS
 - 📫 How to reach me @faqih_ardi10 on instagram
